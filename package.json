@@ -1,0 +1,28 @@
+{
+  "name": "node-cepdb",
+  "version": "0.0.0",
+  "description": "cliente node para consultar ceps no cepdb (https://github.com/lfreneda/cepdb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lfreneda/node-cepdb"
+  },
+  "keywords": [
+    "cepdb",
+    "node",
+    "server",
+    "client",
+    "proxy"
+  ],
+  "author": "lfreneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfreneda/node-cepdb/issues"
+  },
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
