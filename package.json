@@ -2,7 +2,7 @@
   "name": "node-cepdb",
   "version": "0.0.0",
   "description": "cliente node para consultar ceps no cepdb (https://github.com/lfreneda/cepdb)",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "npm test"
   },
